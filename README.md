@@ -50,5 +50,5 @@ The workflow consists of six main stages:
 Main packages:
 - `pandas`, `geopandas`, `scikit-learn`, `xgboost`, `lightgbm`
 - `matplotlib`, `seaborn`, `shapely`, `rasterio`, `cartopy`
-## Autor
-Samuel Rebel, Utrecht University, Geoscience department
+## Author
+Samuel Rebel, Utrecht University, Geoscience department.
